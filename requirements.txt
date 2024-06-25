@@ -1,0 +1,6 @@
+matplotlib
+nltk
+pandas
+selenium
+textblob
+wordcloud
